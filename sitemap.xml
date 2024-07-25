@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.cylgis.top/posts/392ff035.html</loc>
+    
+    <lastmod>2024-07-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cylgis.top/posts/4eb34860.html</loc>
+    
+    <lastmod>2024-07-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.cylgis.top/posts/3b89e474.html</loc>
     
     <lastmod>2024-07-25</lastmod>
@@ -146,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://www.cylgis.top/life/movies/index.html</loc>
+    <loc>https://www.cylgis.top/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -164,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://www.cylgis.top/site/census/index.html</loc>
+    <loc>https://www.cylgis.top/life/movies/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -201,6 +219,20 @@
   
   <url>
     <loc>https://www.cylgis.top/tags/%E8%8B%A5%E4%BE%9D-tomcat/</loc>
+    <lastmod>2024-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cylgis.top/tags/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8-springboot-vue/</loc>
+    <lastmod>2024-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cylgis.top/tags/java-vue-%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
     <lastmod>2024-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
