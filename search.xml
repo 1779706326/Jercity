@@ -20,7 +20,11 @@
       
         <tags>
             
-            <tag> 云服务器 springboot vue </tag>
+            <tag> 云服务器 </tag>
+            
+            <tag> springboot </tag>
+            
+            <tag> vue </tag>
             
         </tags>
       
@@ -45,7 +49,9 @@
       
         <tags>
             
-            <tag> java vue 服务器 </tag>
+            <tag> java vue </tag>
+            
+            <tag> 服务器 </tag>
             
         </tags>
       
@@ -70,7 +76,9 @@
       
         <tags>
             
-            <tag> 若依 tomcat </tag>
+            <tag> 若依 </tag>
+            
+            <tag> tomcat </tag>
             
         </tags>
       
