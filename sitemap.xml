@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.cylgis.top/box/gallery/car/index.html</loc>
+    
+    <lastmod>2025-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.cylgis.top/box/gallery/wallpaper/index.html</loc>
     
     <lastmod>2025-01-14</lastmod>
@@ -83,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://www.cylgis.top/life/movies/index.html</loc>
+    <loc>https://www.cylgis.top/personal/about/index.html</loc>
     
     <lastmod>2025-01-14</lastmod>
     
@@ -101,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://www.cylgis.top/personal/about/index.html</loc>
+    <loc>https://www.cylgis.top/life/movies/index.html</loc>
     
     <lastmod>2025-01-14</lastmod>
     
@@ -209,15 +218,6 @@
   </url>
   
   <url>
-    <loc>https://www.cylgis.top/box/gallery/car/index.html</loc>
-    
-    <lastmod>2024-08-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.cylgis.top/site/echarts/index.html</loc>
     
     <lastmod>2022-09-10</lastmod>
@@ -244,6 +244,20 @@
   
   <url>
     <loc>https://www.cylgis.top/tags/cesium/</loc>
+    <lastmod>2025-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cylgis.top/tags/java-vue/</loc>
+    <lastmod>2025-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cylgis.top/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
     <lastmod>2025-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -279,20 +293,6 @@
   
   <url>
     <loc>https://www.cylgis.top/tags/vue/</loc>
-    <lastmod>2025-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.cylgis.top/tags/java-vue/</loc>
-    <lastmod>2025-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.cylgis.top/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
     <lastmod>2025-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
