@@ -65,6 +65,15 @@
   </url>
   
   <url>
+    <loc>https://www.cylgis.top/personal/about/index.html</loc>
+    
+    <lastmod>2025-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.cylgis.top/life/music/index.html</loc>
     
     <lastmod>2025-01-14</lastmod>
@@ -75,15 +84,6 @@
   
   <url>
     <loc>https://www.cylgis.top/life/movies/index.html</loc>
-    
-    <lastmod>2025-01-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.cylgis.top/personal/about/index.html</loc>
     
     <lastmod>2025-01-14</lastmod>
     
@@ -236,20 +236,6 @@
 
   
   <url>
-    <loc>https://www.cylgis.top/tags/Markdown/</loc>
-    <lastmod>2025-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.cylgis.top/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2025-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.cylgis.top/tags/java-vue/</loc>
     <lastmod>2025-01-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -299,6 +285,20 @@
   </url>
   
   <url>
+    <loc>https://www.cylgis.top/tags/Markdown/</loc>
+    <lastmod>2025-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cylgis.top/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
+    <lastmod>2025-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.cylgis.top/tags/gltf/</loc>
     <lastmod>2025-01-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -315,14 +315,14 @@
 
   
   <url>
-    <loc>https://www.cylgis.top/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <loc>https://www.cylgis.top/categories/%E9%83%A8%E7%BD%B2/</loc>
     <lastmod>2025-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.cylgis.top/categories/%E9%83%A8%E7%BD%B2/</loc>
+    <loc>https://www.cylgis.top/categories/%E6%BC%94%E7%A4%BA/</loc>
     <lastmod>2025-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
