@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://www.cylgis.top/personal/about/index.html</loc>
+    <loc>https://www.cylgis.top/life/movies/index.html</loc>
     
     <lastmod>2025-01-14</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://www.cylgis.top/life/movies/index.html</loc>
+    <loc>https://www.cylgis.top/personal/about/index.html</loc>
     
     <lastmod>2025-01-14</lastmod>
     
@@ -250,6 +250,20 @@
   </url>
   
   <url>
+    <loc>https://www.cylgis.top/tags/gltf/</loc>
+    <lastmod>2025-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.cylgis.top/tags/cesium/</loc>
+    <lastmod>2025-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.cylgis.top/tags/%E8%8B%A5%E4%BE%9D/</loc>
     <lastmod>2025-01-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -298,20 +312,6 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://www.cylgis.top/tags/gltf/</loc>
-    <lastmod>2025-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.cylgis.top/tags/cesium/</loc>
-    <lastmod>2025-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
@@ -322,14 +322,14 @@
   </url>
   
   <url>
-    <loc>https://www.cylgis.top/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <loc>https://www.cylgis.top/categories/Cesium/</loc>
     <lastmod>2025-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.cylgis.top/categories/Cesium/</loc>
+    <loc>https://www.cylgis.top/categories/%E6%BC%94%E7%A4%BA/</loc>
     <lastmod>2025-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
